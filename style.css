@@ -23,4 +23,36 @@
 #topNav > ul > li > a:hover {
   color:#00FF00;
 }
+/* To use this example CSS code copy-and-paste it into your style.css file */
+
+body {
+  font-family: Helvetica;
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h2 {
+  text-align: center;
+}
+
+table {
+  text-align: center;
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+th, td {
+  padding: 8px;
+}
+
+td {
+  border: 1px solid;
+}
+
+.choice {
+  font-style: ;
+}
+
 
